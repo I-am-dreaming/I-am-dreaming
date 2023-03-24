@@ -9,6 +9,7 @@
  <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-dreaming&theme=dark&hide_border=true" />
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 

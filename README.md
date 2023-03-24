@@ -1,17 +1,18 @@
+ <!--显示一行数字动画-->
  <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);造梦同志祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);造梦同志祝您每天生活愉快!&center=true&size=27">
   </a>
 </h1>
 
+ <!--显示连续提交代码的天数及总贡献数-->
+ <div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</div>
 
 
- <!-- Markdown -->
-![Who's GitHub stats](https://github-readme-stats.vercel.app/apiI-am-dreaming)
-<!-- HTML -->
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=username" />
 
- 
+
 <!--
 **I-am-dreaming/I-am-dreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
